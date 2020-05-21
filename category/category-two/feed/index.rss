@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Category Two &#8211; Alchemical Science</title>
+	<atom:link href="http://alchemicalscience.com/category/category-two/feed/" rel="self" type="application/rss+xml" />
+	<link>http://alchemicalscience.com</link>
+	<description>Alchemical Science</description>
+	<lastBuildDate>Sun, 03 May 2020 17:22:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>MESOSILVER SILVER FOR BURNS</title>
+		<link>http://alchemicalscience.com/2018/10/02/mesosilver-silver-for-burns/</link>
+					<comments>http://alchemicalscience.com/2018/10/02/mesosilver-silver-for-burns/#respond</comments>
+		
+		<dc:creator><![CDATA[alchemical]]></dc:creator>
+		<pubDate>Tue, 02 Oct 2018 06:41:45 +0000</pubDate>
+				<category><![CDATA[Category Three]]></category>
+		<category><![CDATA[Category Two]]></category>
+		<guid isPermaLink="false">http://127.0.0.1/test/?p=25</guid>
+
+					<description><![CDATA[It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many]]></description>
+										<content:encoded><![CDATA[<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://alchemicalscience.com/2018/10/02/mesosilver-silver-for-burns/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BANDAGES &#038; DRESSINGS</title>
+		<link>http://alchemicalscience.com/2017/08/09/bandages-dressings/</link>
+					<comments>http://alchemicalscience.com/2017/08/09/bandages-dressings/#respond</comments>
+		
+		<dc:creator><![CDATA[alchemical]]></dc:creator>
+		<pubDate>Wed, 09 Aug 2017 07:37:36 +0000</pubDate>
+				<category><![CDATA[Category Two]]></category>
+		<guid isPermaLink="false">http://localhost/ciya-shop-sample-data/?p=15</guid>
+
+					<description><![CDATA[Success isn’t really that difficult. there is a significant portion of the population here in North America, that actually want and need success to be hard! Why? so they then have a built-in excuse when things don’t go their way! pretty sad situation, to say the least. for those of you who are serious about]]></description>
+										<content:encoded><![CDATA[<p>Success isn’t really that difficult. there is a significant portion of the population here in North America, that actually want and need success to be hard! Why? so they then have a built-in excuse when things don’t go their way! pretty sad situation, to say the least. for those of you who are serious about having more, doing more, giving more and being more, success is achievable with some understanding of what to do, some discipline around planning and execution of those plans and belief that you can achieve your desires.</p>
+<p>The first thing to remember about success is that it is a process -nothing more, nothing less. there is really no magic to it and it’s not reserved only for a select few people. as such, success really has nothing to do with luck, coincidence or fate. it really comes down to understanding the steps in the process and then executing on those steps One thing for certain though.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://alchemicalscience.com/2017/08/09/bandages-dressings/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

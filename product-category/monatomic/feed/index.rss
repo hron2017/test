@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Monatomic &#8211; Alchemical Science</title>
+	<atom:link href="http://alchemicalscience.com/product-category/monatomic/feed/" rel="self" type="application/rss+xml" />
+	<link>http://alchemicalscience.com</link>
+	<description>Alchemical Science</description>
+	<lastBuildDate>Tue, 05 May 2020 10:20:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<item>
+		<title>Monatomic Product</title>
+		<link>http://alchemicalscience.com/product/monatomic-product/</link>
+					<comments>http://alchemicalscience.com/product/monatomic-product/#respond</comments>
+		
+		<dc:creator><![CDATA[alchemical]]></dc:creator>
+		<pubDate>Tue, 05 May 2020 10:19:25 +0000</pubDate>
+				<guid isPermaLink="false">http://alchemicalscience.com/?post_type=product&#038;p=419</guid>
+
+					<description><![CDATA[Whitmor's Stackable Jewelry Trays feature soft touch inner compartments creating a comfortable home for a wide variety of jewelry.]]></description>
+										<content:encoded><![CDATA[<p>Whitmor&#8217;s Stackable Jewelry Trays feature soft touch inner compartments creating a comfortable home for a wide variety of jewelry. Each tray comes with its own protective dust cover. Multiple units may be stacked to create the perfect storage solution for your finer items. 9 Section Tray</p>
+<ul class=" h-standardSpacing override-highlights">
+<li><b>Dimensions:</b> 1.5 inches (H) x 9.0 inches (W) x 8.0 inches (D)</li>
+<li><b>Material:</b> Plastic</li>
+<li><b>Weight:</b> .52 pounds</li>
+<li><b>Care and Cleaning:</b> Dry Dust</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://alchemicalscience.com/product/monatomic-product/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
